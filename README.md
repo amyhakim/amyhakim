@@ -1,5 +1,5 @@
 # Welcome to my space 💫
-<img align="right" width="300" height="300" src= https://i.pinimg.com/originals/cf/46/a2/cf46a2cfb0df7380841577d51859de31.gif>
+<img align="right" width="200" height="200" src= https://i.pinimg.com/originals/cf/46/a2/cf46a2cfb0df7380841577d51859de31.gif>
 
 - Hi! 👋 I'm Amy, a senior computer science major at the University of Central Florida 🎓
 - ♡ Hackathons, software engineering, digital art
