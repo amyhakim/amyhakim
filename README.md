@@ -1,4 +1,4 @@
-# Welcome to my space 💫
+# Welcome 💫
 <img align="right" src= https://i.pinimg.com/originals/cf/46/a2/cf46a2cfb0df7380841577d51859de31.gif>
 
 - Hi! 👋 I'm Amy, a computer science major at the University of Central Florida 🎓
